@@ -1,0 +1,10 @@
+.background {
+    -fx-background-color: #000;
+}
+
+.input {
+    -fx-background-color: #191721;
+    -fx-text-fill: #f0f0f0;
+    -fx-border-color: #0a0b38;
+    -fx-border-radius: 5;
+}
